@@ -7,7 +7,7 @@
 #include "array.h"
 
 int main(void) {
-  printf("Welcome to ASCII sudoku!\n");
+  printf("Welcome to sudoku solver!\n");
   struct sudoku *s = read_sudoku();
   print_sol(s);
   if (solve(s)) {
