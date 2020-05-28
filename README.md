@@ -1,1 +1,4 @@
-This program takes input for a sudoku, and gives the solution.
+Sudoku Solver 
+-----------------------
+
+This algorithm takes in a sudoku, and gives its solution.
